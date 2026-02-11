@@ -2,7 +2,7 @@
 Contributors: jaredatch, smub, capuderg
 Tags: Change Mail Sender, name, email, from email, mail, wp_mail, change name, change email, from email, from name, CB Change Mail Sender
 Requires at least: 5.2
-Tested up to: 6.1
+Tested up to: 6.7
 Requires PHP: 5.6
 Stable tag: 1.3.0
 License: GPLv2 or later
